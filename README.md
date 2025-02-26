@@ -1,4 +1,4 @@
-> [!INFO]
+> [!NOTE]
 > This account has been moved from @douxxu to @douxxtech. New updates will be on `douxxtech` account.
 <!-- thx @plyght -->
 <pre>
