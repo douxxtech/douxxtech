@@ -1,4 +1,5 @@
-![@douxxu](https://images.dpip.lol/douxxu_dpip_mini.png)
+> [!INFO]
+> This account has been moved from @douxxu to @douxxtech. New updates will be on `douxxtech` account.
 <!-- thx @plyght -->
 <pre>
 ┌──┤ ECHO $HOME ├─────────▰▰▰
@@ -41,11 +42,11 @@
 
 <h2>[douxx@douxx.tech ~]$ dgit stats</h2>
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=douxxu&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=douxxtech&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
 <br>
-<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=douxxu&theme=nightowl"/>
+<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=douxxtech&theme=nightowl"/>
 <br>
-<img title="" src="https://prv-readme-streak.dpip.lol/?user=douxxu&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
+<img title="" src="https://prv-readme-streak.dpip.lol/?user=douxxtech&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
 </p>
 
 <img title="" src="https://prv-readme-views.dpip.lol/?id=douxxu-readme"/>
