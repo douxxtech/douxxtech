@@ -32,12 +32,12 @@
 │
 ├─◈ ['<a href="https://2peek.me/" target="_blank">2peek.me</a>', 
 ├─◈ '<a href="https://abcdefghijklmnopqrstuvwxyz.ldt/" target="_blank">abcdefghijklmnopqrstuvwxyz.ldt</a>',
-├─◈ '<a href="https://arizaki.xyz/" target="_blank">arizaki.xyz</a>', '<a href="https://dbo.one/" target="_blank">dbo.one</a>', '<a href="https://douxx.tech/" target="_blank">douxx.tech</a>',
-├─◈ '<a href="https://douxx.xyz/" target="_blank">douxx.xyz</a>', '<a href="https://dpip.lol/" target="_blank">dpip.lol</a>', '<a href="https://exrazer.xyz/" target="_blank">exrazer.xyz</a>',
-├─◈ '<a href="https://getan.email/" target="_blank">getan.email</a>', '<a href="https://imaginethisbeingan.email/" target="_blank">imaginethisbeingan.email</a>',
-├─◈ '<a href="https://piwave.xyz/" target="_blank">piwave.xyz</a>', '<a href="https://noskid.today/" target="_blank">noskid.today</a>', 
-├─◈ '<a href="https://techquest.work/" target="_blank">techquest.work</a>', '<a href="https://urltoapp.xyz/" target="_blank">urltoapp.xyz</a>',
-├─◈ '<a href="https://togp.xyz/" target="_blank">togp.xyz</a>']
+├─◈ '<a href="https://arizaki.xyz/" target="_blank">arizaki.xyz</a>', '<a href="https://dbo.one/" target="_blank">dbo.one</a>', '<a href="https://douxx.blog/" target="_blank">douxx.blog</a>', 
+├─◈ '<a href="https://douxx.tech/" target="_blank">douxx.tech</a>', '<a href="https://douxx.xyz/" target="_blank">douxx.xyz</a>', '<a href="https://dpip.lol/" target="_blank">dpip.lol</a>',
+├─◈ '<a href="https://exrazer.xyz/" target="_blank">exrazer.xyz</a>', '<a href="https://getan.email/" target="_blank">getan.email</a>', 
+├─◈ '<a href="https://imaginethisbeingan.email/" target="_blank">imaginethisbeingan.email</a>', '<a href="https://piwave.xyz/" target="_blank">piwave.xyz</a>', 
+├─◈ '<a href="https://noskid.today/" target="_blank">noskid.today</a>',  '<a href="https://techquest.work/" target="_blank">techquest.work</a>', 
+├─◈ '<a href="https://urltoapp.xyz/" target="_blank">urltoapp.xyz</a>', '<a href="https://togp.xyz/" target="_blank">togp.xyz</a>']
 │
 └───────────────────────────────▰▰▰
 
