@@ -37,7 +37,8 @@
 ├─◈ '<a href="https://exrazer.xyz/" target="_blank">exrazer.xyz</a>', '<a href="https://getan.email/" target="_blank">getan.email</a>', 
 ├─◈ '<a href="https://imaginethisbeingan.email/" target="_blank">imaginethisbeingan.email</a>', '<a href="https://piwave.xyz/" target="_blank">piwave.xyz</a>', 
 ├─◈ '<a href="https://noskid.today/" target="_blank">noskid.today</a>',  '<a href="https://techquest.work/" target="_blank">techquest.work</a>', 
-├─◈ '<a href="https://urltoapp.xyz/" target="_blank">urltoapp.xyz</a>', '<a href="https://togp.xyz/" target="_blank">togp.xyz</a>']
+├─◈ '<a href="https://theserver.life/" target="_blank">theserver.life</a>', '<a href="https://urltoapp.xyz/" target="_blank">urltoapp.xyz</a>', 
+├─◈ '<a href="https://togp.xyz/" target="_blank">togp.xyz</a>', '<a href="https://writestorm.art/" target="_blank">writestorm.art</a>']
 │
 └───────────────────────────────▰▰▰
 
