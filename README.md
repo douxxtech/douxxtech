@@ -16,6 +16,7 @@
 │
 ├─◈ <a href="https://douxx.tech" target="_blank">douxx.tech</a>
 ├─◈ <a href="https://dpip.lol" target="_blank">dpip.lol</a>
+├─◈ <a href="https://douxx.blog" target="_blank">douxx.blog</a>
 │
 └───────────────────────────────▰▰▰
 
