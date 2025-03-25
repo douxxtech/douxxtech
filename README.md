@@ -52,9 +52,13 @@
 <img title="" src="https://prv-readme-streak.dpip.lol/?user=douxxtech&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
 </p>
 
-<img title="" src="https://prv-readme-views.dpip.lol/?id=douxxu-readme"/>
 
 <h6>invaders must die</h6>
 </pre>
 ---
 I use arch btw
+
+    
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@:douxxu?theme=rule34">
+</div>
