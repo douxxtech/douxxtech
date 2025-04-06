@@ -24,7 +24,7 @@
 │
 ├─◈ <a href="https://2peek.me" target="_blank">2peek.me - Get subdomains, for free.</a>
 ├─◈ <a href="https://piwave.xyz" target="_blank">PiWave - Your raspberry pi radio in a python module.</a>
-├─◈ <a href="https://douxx.xyz" target="_blank">ζDouBots - A bot for everyone.</a>
+├─◈ <a href="https://github.com/url2app" target="_blank">U2A - Turn any website into an application.</a>
 ├─◈ <a href="https://getan.email" target="_blank">GetAn.Email - Free email redirection.</a>
 │
 └───────────────────────────────▰▰▰
