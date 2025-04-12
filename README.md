@@ -56,7 +56,7 @@
 <h6>invaders must die</h6>
 </pre>
 ---
-I use arch btw
+I use fedora btw
 
     
 <div align="center">
