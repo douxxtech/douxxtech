@@ -1,6 +1,9 @@
 > [!NOTE]
 > This account has been moved from @douxxu to @douxxtech. New updates will be on `douxxtech` account.
-<!-- thx @plyght -->
+  
+> [!TIP]
+> Do you like my projects ? Then you might like [@url2app](https://github.com/url2app) ! Go check it out :)
+
 <pre>
 ┌──┤ ECHO $HOME ├─────────▰▰▰
 │
