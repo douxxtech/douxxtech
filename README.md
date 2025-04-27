@@ -52,7 +52,7 @@
 <br>
 <img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=douxxtech&theme=nightowl"/>
 <br>
-<img title="" src="https://prv-readme-streak.dpip.lol/?user=douxxtech&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
+<img title="" src="https://streak-stats.demolab.com/?user=douxxtech&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
 </p>
 
 
