@@ -1,8 +1,5 @@
 > [!NOTE]
 > This account has been moved from @douxxu to @douxxtech. New updates will be on `douxxtech` account.
-  
-> [!TIP]
-> Do you like my projects ? Then you might like [@url2app](https://github.com/url2app) ! Go check it out :)
 
 <pre>
 ┌──┤ ECHO $HOME ├─────────▰▰▰
@@ -20,6 +17,7 @@
 ├─◈ <a href="https://douxx.tech" target="_blank">douxx.tech</a>
 ├─◈ <a href="https://dpip.lol" target="_blank">dpip.lol</a>
 ├─◈ <a href="https://douxx.blog" target="_blank">douxx.blog</a>
+├─◈ <a href="https://noskid.today" target="_blank">noskid.today</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -55,12 +53,7 @@
 <img title="" src="https://streak-stats.demolab.com/?user=douxxtech&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
 </p>
 
-
-<h6>invaders must die</h6>
 </pre>
----
-I use fedora btw
-
     
 <div align="center">
 <img src="https://moe-counter.glitch.me/get/@:douxxu?theme=rule34">
