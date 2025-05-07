@@ -52,7 +52,7 @@
 <br>
 <img title="" src="https://streak-stats.demolab.com/?user=douxxtech&theme=midnight-purple&hide_border=true&stroke=f53b3b"/>  
 <a href="https://github.com/douxxtech/noskid.today">
-  <img src="https://noskid.today/badge/470x200/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
+<img src="https://noskid.today/badge/470x200/?repo=douxxtech/douxxtech">
 </a>
 
 </p>
