@@ -33,7 +33,7 @@
 ┌──┤ curl domains.dpip.lol ├─────────▰▰▰
 │
 ├─◈ ['<a href="https://2peek.me/" target="_blank">2peek.me</a>', 
-├─◈ '<a href="https://abcdefghijklmnopqrstuvwxyz.ldt/" target="_blank">abcdefghijklmnopqrstuvwxyz.ldt</a>',
+├─◈ '<a href="https://abcdefghijklmnopqrstuvwxyz.ltd/" target="_blank">abcdefghijklmnopqrstuvwxyz.ltd</a>',
 ├─◈ '<a href="https://arizaki.xyz/" target="_blank">arizaki.xyz</a>', '<a href="https://dbo.one/" target="_blank">dbo.one</a>', '<a href="https://douxx.blog/" target="_blank">douxx.blog</a>', 
 ├─◈ '<a href="https://douxx.tech/" target="_blank">douxx.tech</a>', '<a href="https://douxx.xyz/" target="_blank">douxx.xyz</a>', '<a href="https://dpip.lol/" target="_blank">dpip.lol</a>',
 ├─◈ '<a href="https://exrazer.xyz/" target="_blank">exrazer.xyz</a>', '<a href="https://getan.email/" target="_blank">getan.email</a>', 
