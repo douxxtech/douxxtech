@@ -14,7 +14,9 @@
 	 <a href="README_FULL.md">Full Readme</a> —
 	 <a href="https://noskid.today">No skids, please !</a>
 </p>
-
+<div align="center">
+	<a href="https://github.com/sponsors/douxxtech/">Sponsor me btw &gt;.&lt; </a>
+<div/>
 <br /><br />
 
 <!--taken from https://github.com/theMackabu/theMackabu/-->
