@@ -6,7 +6,7 @@
 │
 ├─▣ /home/douxx
 ├─▣ Student at <a href="https://cpne.ch" target="_blank">CPNE</a>
-├─▣ 15 years old
+├─▣ 16 years old
 ├─▣ Switzerland
 ├─▣ Developer with + 100'000 users worldwide
 │
