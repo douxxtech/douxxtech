@@ -1,7 +1,9 @@
 <p align="center">
 	 <img src="https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
 </p>
-<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douxxtech&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>
+<!--<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douxxtech&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>-->
+
+<a href="#"><img align="right" src="stats.svg" height="220px" alt="Most used languages"></a>
 <br>
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
