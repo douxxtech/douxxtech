@@ -23,8 +23,8 @@
 <div align="center">
 	 <details>
 	 <summary>Main Projects</summary>
-	 <a href="https://github.com/dpipstudio/noskid.today"><img src="https://togp.xyz/?owner=dpipstudio&repo=noskid.today&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/nskd_stats.svg"/></a>
-	 <a href="https://github.com/dpipstudio/botwave"><img src="https://togp.xyz/?owner=dpipstudio&repo=botwave&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/bw_stats.svg"/></a>
+	 <a href="https://github.com/dpipstudio/noskid.today"><img src="https://togp.xyz/?owner=dpipstudio&repo=noskid.today&cache=false&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/nskd_stats.svg"/></a>
+	 <a href="https://github.com/dpipstudio/botwave"><img src="https://togp.xyz/?owner=dpipstudio&repo=botwave&cache=false&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/bw_stats.svg"/></a>
 	 </details>
 <div/>
 <hr style="width: 100%; border: 1px solid #ccc; margin: 20px 0;">
