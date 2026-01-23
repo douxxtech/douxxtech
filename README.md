@@ -15,7 +15,7 @@
 	<p>
 		<a href="https://douxx.tech">Contact Me</a> —
 		<a href="README_FULL.md">Full Readme</a> —
-		<a href="https://noskid.today">No skids, please !</a>
+		<a href="https://donate.douxx.tech">Support me!</a>
 	</p>
 </div>
 
