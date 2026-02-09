@@ -25,7 +25,7 @@ jobs:
         run: pip install feedparser
 
       - name: Update README
-        run: python scripts/update_latest_article.py
+        run: python scripts/latest-article.py
 
       - name: Commit changes
         run: |
