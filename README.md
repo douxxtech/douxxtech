@@ -15,7 +15,7 @@
 	<p>
 		<a href="https://douxx.tech">Contact Me</a> —
 		<a href="https://douxx.tech/donate">Support Me</a> —
-		<a href="https://douxx.blog/">My Latest Article</a>
+		<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
 	</p>
 </div>
 
