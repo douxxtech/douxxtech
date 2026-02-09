@@ -14,7 +14,8 @@
 	<p>Not sorry about that. Do not try refreshing and don't contact us if the problem persists.</p>
 	<p>
 		<a href="https://douxx.tech">Contact Me</a> —
-		<a href="https://douxx.tech/donate">Support Me</a>
+		<a href="https://douxx.tech/donate">Support Me</a> —
+		<a href="https://douxx.blog/">My Latest Article</a>
 	</p>
 </div>
 
