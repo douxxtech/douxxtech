@@ -5,8 +5,8 @@
 <a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
 
 
-<div>
-	<h2>Hi, I'm Douxx</h2>
+<div style="max-width: 600px;">
+	<h2>Hi, I'm Douxx 0/</h2>
 	<p>16-year-old developer building open-source tools and hardware experiments. I work with Raspberry Pis, ESP32s, SDR, and whatever else I can get my hands on. Most of my projects involve radio, signal processing, or finding solutions to problems that probably don't need solving.</p>
 	<p align="center">
 		<a href="https://douxx.tech">Contact Me</a> •
