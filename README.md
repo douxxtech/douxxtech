@@ -4,7 +4,7 @@
 
 <a href="#"><img align="right" src="pics/dish.webp" height="320" alt="sat"></a>
 
-<p align="center">
+<p align="left">
 
 <img src="pics/hiimdouxx.png" height="30"/> 
 
