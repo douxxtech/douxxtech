@@ -2,16 +2,16 @@
 	 <img src="https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
 </p> -->
 
-<a href="#"><img align="right" src="pics/dish.webp" height="330" alt="sat"></a>
+<a href="#"><img align="right" src="pics/dish.webp" height="320" alt="sat"></a>
 
+<p align="center">
 
-# Douxx 0/
+<img src="pics/hiimdouxx.png" height="30"/> 
 
 **> 16 · Developer · Radio Enthusiast <**
 
 Building open-source tools and hardware experiments.  
 
-<p align="center">
 <a href="https://douxx.tech">Website</a> • 
 <a href="https://douxx.tech/donate">Donate</a> • 
 <a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
