@@ -2,11 +2,8 @@
 	 <img src="https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
 </p> -->
 
-<a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
+<a href="#"><img align="right" src="pics/dish.webp" height="330" alt="sat"></a>
 
-<table style="border: none;">
-<tr>
-<td width="600" style="border: none;">
 
 # Douxx 0/
 
@@ -19,10 +16,7 @@ Building open-source tools and hardware experiments.
 <a href="https://douxx.tech/donate">Donate</a> • 
 <a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
 </p>
-<br>
-</td>
-</tr>
-</table>
+
 
 ---
 
