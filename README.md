@@ -5,15 +5,23 @@
 <a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
 
 
-<div style="max-width: 600px;">
-	<h2>Hi, I'm Douxx 0/</h2>
-	<p>16-year-old developer building open-source tools and hardware experiments. I work with Raspberry Pis, ESP32s, SDR, and whatever else I can get my hands on. Most of my projects involve radio, signal processing, or finding solutions to problems that probably don't need solving.</p>
-	<p align="center">
-		<a href="https://douxx.tech">Contact Me</a> •
-		<a href="https://douxx.tech/donate">Support Me</a> •
-		<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">Latest Article</a>
-	</p>
-</div>
+<table>
+<tr>
+<td width="600">
+
+## Hi, I'm Douxx 0/
+
+16-year-old developer building open-source tools and hardware experiments. I work with Raspberry Pis, ESP32s, SDR, and whatever else I can get my hands on. Most of my projects involve radio, signal processing, or finding solutions to problems that probably don't need solving.
+
+<p align="center">
+<a href="https://douxx.tech">Contact Me</a> •
+<a href="https://douxx.tech/donate">Support Me</a> •
+<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">Latest Article</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 <hr>
 
