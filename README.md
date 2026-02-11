@@ -4,9 +4,7 @@
 
 <a href="#"><img align="right" src="pics/dish.webp" height="320" alt="sat"></a>
 
-<p align="left">
-
-<img src="pics/hiimdouxx.png" height="30"/> 
+<p align="middle">
 
 **> 16 · Developer · Radio Enthusiast <**
 
@@ -17,7 +15,7 @@ Building open-source tools and hardware experiments.
 <a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
 </p>
 
-<br><br>
+<br>
 
 ---
 
