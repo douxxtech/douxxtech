@@ -4,24 +4,19 @@
 
 <a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
 
-
-<table>
-<tr>
-<td width="600">
-
-## Hi, I'm Douxx 0/
-
-16-year-old developer building open-source tools and hardware experiments. I work with Raspberry Pis, ESP32s, SDR, and whatever else I can get my hands on. Most of my projects involve radio, signal processing, or finding solutions to problems that probably don't need solving.
-
-<p align="center">
-<a href="https://douxx.tech">Contact Me</a> •
-<a href="https://douxx.tech/donate">Support Me</a> •
-<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">Latest Article</a>
-</p>
-
-</td>
-</tr>
-</table>
+<div>
+	<h2>Hi, I'm Douxx 0/</h2>
+	<p>
+		<b>16-year-old developer</b> building open-source tools and hardware experiments.<br>
+		I work with <i>Raspberry Pis</i>, <i>ESP32s</i>, <i>SDR</i>, and whatever else I can get my hands on.<br>
+		Most of my projects involve <code>radio</code>, <code>signal processing</code>, or finding solutions to problems that probably don't need solving.
+	</p>
+	<p align="center">
+		<a href="https://douxx.tech">Contact Me</a> •
+		<a href="https://douxx.tech/donate">Support Me</a> •
+		<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">Latest Article</a>
+	</p>
+</div>
 
 <hr>
 
