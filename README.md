@@ -3,7 +3,7 @@
 </p>
 <!--<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douxxtech&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>-->
 
-<a href="#"><img align="right" src="pics/dish.webp" height="220" alt="sat"></a>
+<a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
 <br>
 <p align="center">
 	 <a href="#"><img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"></a>
