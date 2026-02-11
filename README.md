@@ -4,7 +4,7 @@
 
 <a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
 
-<table>
+<table style="border: none;">
 <tr>
 <td width="600" style="border: none;">
 
