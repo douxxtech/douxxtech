@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 	 <img src="https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
-</p>
+</p> -->
 <!--<a href="#"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douxxtech&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117" height="220px" alt="Most used languages"></a>-->
 
 <a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
