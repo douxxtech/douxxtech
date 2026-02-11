@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td width="600">
+<td width="600" style="border: none;">
 
 # Douxx 0/
 
