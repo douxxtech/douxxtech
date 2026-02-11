@@ -15,7 +15,7 @@ Building open-source tools and hardware experiments.
 <a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
 </p>
 
-<br>
+<br><br><br><br>
 
 ---
 
