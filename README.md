@@ -2,7 +2,7 @@
 	 <img src="https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
 </p> -->
 
-<a href="#"><img align="right" src="pics/dish.webp" height="200" alt="sat"></a>
+<a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
 
 <table>
 <tr>
