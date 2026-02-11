@@ -10,19 +10,16 @@
 
 # Douxx 0/
 
-**16 · Developer · Radio Enthusiast**
+**> 16 · Developer · Radio Enthusiast <**
 
 Building open-source tools and hardware experiments.  
-
-**Focus:** Radio, signal processing, embedded systems  
-
 
 <p align="center">
 <a href="https://douxx.tech">Website</a> • 
 <a href="https://douxx.tech/donate">Donate</a> • 
 <a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
 </p>
-
+<br>
 </td>
 </tr>
 </table>
