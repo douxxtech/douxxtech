@@ -2,29 +2,32 @@
 	 <img src="https://noskid.today/badge/100x30/?repo=douxxtech/douxxtech" alt="NoSkid Verification">
 </p> -->
 
-<a href="#"><img align="right" src="pics/dish.webp" height="300" alt="sat"></a>
+<a href="#"><img align="right" src="pics/dish.webp" height="200" alt="sat"></a>
 
 <table>
 <tr>
 <td width="600">
 
-## Hi, I'm Douxx 0/
+# Douxx 0/
 
-**16-year-old developer** building open-source tools and hardware experiments.  
-I work with *Raspberry Pis*, *ESP32s*, *SDR*, and whatever else I can get my hands on.  
-Most of my projects involve `radio`, `signal processing`, or finding solutions to problems that probably don't need solving.
+**16 · Developer · Radio Enthusiast**
+
+Building open-source tools and hardware experiments.  
+
+**Focus:** Radio, signal processing, embedded systems  
+
 
 <p align="center">
-<a href="https://douxx.tech">Contact Me</a> •
-<a href="https://douxx.tech/donate">Support Me</a> •
-<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">Latest Article</a>
+<a href="https://douxx.tech">Website</a> • 
+<a href="https://douxx.tech/donate">Donate</a> • 
+<a href="https://douxx.blog/?p=8-how-i-built-a-random-number-generator-sort-of">My Latest Article</a>
 </p>
 
 </td>
 </tr>
 </table>
 
-<hr>
+---
 
 <div align="center">
 	<details>
@@ -39,4 +42,4 @@ Most of my projects involve `radio`, `signal processing`, or finding solutions t
 	</details>
 </div>
 
-<hr>
+---
