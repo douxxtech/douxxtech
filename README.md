@@ -24,10 +24,10 @@ Building open-source tools and hardware experiments.
 		<summary><b>Main Projects</b></summary>
 		<br>
 		<a href="https://github.com/dpipstudio/noskid.today">
-			<img src="https://togp.xyz/?owner=dpipstudio&repo=noskid.today&cache=false&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/pics/nskd_stats.svg"/>
+			<img src="https://togp.douxx.tech/?owner=dpipstudio&repo=noskid.today&cache=false&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/pics/nskd_stats.svg"/>
 		</a>
 		<a href="https://github.com/dpipstudio/botwave">
-			<img src="https://togp.xyz/?owner=dpipstudio&repo=botwave&cache=false&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/pics/bw_stats.svg"/>
+			<img src="https://togp.douxx.tech/?owner=dpipstudio&repo=botwave&cache=false&svg=https://raw.githubusercontent.com/douxxtech/douxxtech/refs/heads/main/pics/bw_stats.svg"/>
 		</a>
 	</details>
 </div>
