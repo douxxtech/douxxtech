@@ -12,7 +12,7 @@ Building open-source tools and hardware experiments.
 
 <a href="https://douxx.tech">Website</a> • 
 <a href="https://douxx.tech/donate">Donate</a> • 
-<a href="https://douxx.blog/?p=15-your-shell-is-just-a-loop">My Latest Article</a>
+<a href="https://douxx.blog/starting-over">My Latest Article</a>
 </p>
 
 <br><br><br><br><br>
