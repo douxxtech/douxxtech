@@ -4,10 +4,10 @@ from pathlib import Path
 
 README_PATH = Path("README.md")
 
-feed = feedparser.parse("https://douxx.blog/articles/?rss")
+feed = feedparser.parse("https://douxx.blog/feed.xml")
 
 if not feed.entries:
-    raise RuntimeError("RSS feed has no entries")
+    raise RuntimeError("Atom feed has no entries")
 
 latest_link = feed.entries[0].link
 
