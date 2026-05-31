@@ -4,7 +4,7 @@ from pathlib import Path
 
 README_PATH = Path("README.md")
 
-feed = feedparser.parse("https://douxx.blog/feed.xml")
+feed = feedparser.parse("https://douxx.blog/atom.xml")
 
 if not feed.entries:
     raise RuntimeError("Atom feed has no entries")
